@@ -29,8 +29,8 @@ QA Engineer → стремлюсь к QC
 ### Языки программирования:
 
 <div>
-	<img src="https://www.flaticon.com/free-icon/python_5968350?term=python&page=1&position=29&origin=search&related_id=5968350" title="Python" width="40" height="40"/>&nbsp
-	<img src="https://www.flaticon.com/free-icon/js_5968292?term=javascript&page=1&position=4&origin=search&related_id=5968292" title="JavaScript" width="40" height="40"/>&nbsp
+	<img src="https://www.flaticon.com/ru/free-icon/python_5968350?term=%D0%BF%D0%B8%D1%82%D0%BE%D0%BD&page=1&position=1&origin=tag&related_id=5968350" title="Python" width="40" height="40"/>&nbsp
+	<img src="https://www.flaticon.com/ru/free-icon/js_5968292?term=javascript&page=3&position=68&origin=search&related_id=5968292" title="JavaScript" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -39,7 +39,7 @@ QA Engineer → стремлюсь к QC
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
+  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
@@ -67,7 +67,7 @@ QA Engineer → стремлюсь к QC
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1280px-Bash_Logo_Colored.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
