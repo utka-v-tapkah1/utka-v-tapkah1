@@ -29,8 +29,8 @@ QA Engineer → стремлюсь к QC
 ### Языки программирования:
 
 <div>
-	<img src="https://www.flaticon.com/ru/free-icon/python_5968350?term=%D0%BF%D0%B8%D1%82%D0%BE%D0%BD&page=1&position=1&origin=tag&related_id=5968350" title="Python" width="40" height="40"/>&nbsp
-	<img src="https://www.flaticon.com/ru/free-icon/js_5968292?term=javascript&page=3&position=68&origin=search&related_id=5968292" title="JavaScript" width="40" height="40"/>&nbsp
+	<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail" title="Python" width="40" height="40"/>&nbsp
+	<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=original" title="JavaScript" width="40" height="40"/>&nbsp
 </div>
 
 ---
