@@ -4,8 +4,6 @@
 
 ### 👨‍💻 Обо мне:
 
-## Обо мне
-
 QA Engineer → стремлюсь к QC 
 Разбираюсь в основах программирования и активно развиваюсь 
 в направлении обеспечения качества ПО. Моя цель — стать 
@@ -26,11 +24,12 @@ QA Engineer → стремлюсь к QC
 
 ---
 
-### Языки программирования:
+### 🖥 Языки программирования:
 
 <div>
-	<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail" title="Python" width="40" height="40"/>&nbsp
-	<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=original" title="JavaScript" width="40" height="40"/>&nbsp
+	<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail" title="python" alt="python" width="40" height="40"/>&nbsp
+	<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=original" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+	<img src="https://kassa.bifit.com/wiki/images/thumb/7/72/Product-1c.svg/2048px-Product-1c.svg.png" title="1с" alt="1с" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -69,7 +68,7 @@ QA Engineer → стремлюсь к QC
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1280px-Bash_Logo_Colored.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/3840px-PyCharm_Icon.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp
 </div>
 
 ---
