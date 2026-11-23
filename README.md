@@ -10,7 +10,7 @@ QA Engineer → стремлюсь к QC
 высококвалифицированным специалистом в области тестирования, 
 пройдя путь от QA к QC.
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](dimaduh2008@gmail.com)
+- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dimaduh2008@gmail.com)
 
 ---
 
